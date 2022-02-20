@@ -1,0 +1,41 @@
+* nav {
+    background-color: wheat;
+}
+
+.rightnav {
+    float: right;
+}
+
+.rightnav.nav-content {
+    color: blueviolet;
+    font-weight: 600;
+}
+
+.rightnav.nav-content:hover {
+    color: yellow;
+}
+
+.rightnav.nav-content.active {
+    color: darkred;
+}
+
+.section2.card {
+    border: none;
+    box-flex: 0px 3px 10px 0px white;
+}
+
+.section2.card.service-img {
+    overflow: hidden;
+    height: 20px;
+}
+
+.modal form {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    width: 100%;
+}
+
+h5 {
+    text-align: centre;
+}

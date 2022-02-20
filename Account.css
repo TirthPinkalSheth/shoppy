@@ -1,0 +1,14 @@
+* nav {
+    background-color: wheat;
+}
+
+form {
+    margin: 200px;
+    border: 2px solid blue;
+    padding: 20px;
+    width: 40%;
+}
+
+form.text {
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,38 @@
+* body {
+    background-color: rgb(255, 240, 155);
+}
+
+nav {
+    background-color: wheat;
+}
+
+.rightnav {
+    float: right;
+}
+
+.rightnav.nav-content {
+    color: blueviolet;
+    font-weight: 600;
+}
+
+.rightnav.nav-content:hover {
+    color: yellow;
+}
+
+.rightnav.nav-content.active {
+    color: darkred;
+}
+
+.ss1.card {
+    border: none;
+    box-flex: 0px 3px 10px 0px white;
+}
+
+.ss1.card.simg {
+    overflow: hidden;
+    height: 20px;
+}
+
+.modal form {
+    text-align: center;
+}

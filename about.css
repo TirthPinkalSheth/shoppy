@@ -1,0 +1,38 @@
+* nav {
+    background-color: wheat;
+}
+
+.rightnav {
+    float: right;
+}
+
+.rightnav.nav-content {
+    color: blueviolet;
+    font-weight: 600;
+}
+
+.rightnav.nav-content:hover {
+    color: yellow;
+}
+
+.rightnav.nav-content.active {
+    color: darkred;
+}
+
+section {
+    text-align: center;
+}
+
+.social-media {
+    padding: 10px 50px;
+}
+
+.social-media a i {
+    font-size: 30px;
+    padding: 10px;
+    color: blueviolet;
+}
+
+.social-media a i:hover {
+    color: blue;
+}
